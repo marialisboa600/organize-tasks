@@ -1,4 +1,4 @@
-import './inputs.css';
+import './mainScreen.css'
 import React, { useState, useContext,useEffect}  from 'react';
 import ModalTask from './modal';
 import TaskProvider from '../context/taskContext';

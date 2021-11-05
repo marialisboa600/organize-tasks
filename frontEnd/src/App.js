@@ -1,5 +1,5 @@
 import React from 'react';
-import './components/inputs.css';
+import './components/mainScreen.css';
 import './App.css';
 import MainScreen from './components/mainScreen';
 import TaskProvider from './context/taskProvider';

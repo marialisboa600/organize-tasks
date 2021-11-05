@@ -1,0 +1,39 @@
+
+.titulo{
+    margin-top: 0px;
+    padding-top: 0px;
+    color: black;
+    font-size: 4em;
+    font-weight: bold;   
+}
+
+.body{
+    min-height: 100vh;
+    background-color: #030303;   
+}
+
+.tituloApp{
+    color: beige;
+    padding: 30px;
+}
+
+.card {
+    margin: 10px;
+}
+
+.col  {
+    border: solid white 2px;
+    margin: 10px;
+    padding: 30px;
+}
+
+.row>*{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.titleCenter {
+    text-align: center;
+    padding: 15px;
+    border-radius: 5px;
+}
