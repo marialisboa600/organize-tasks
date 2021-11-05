@@ -1,14 +1,10 @@
 import { Button, ModalHeader, ModalBody, Modal, ModalFooter } from 'bootstrap';
-import React, { useState, useEffect, useContext } from 'react';
 
-import TaskProvider from '../context/taskContext';
 import ButtonAddTask from './buttonAddTask';
 
 function ModalTask({submitTarefa}) {
   return (
     <div>
-      
-      
       <ButtonAddTask />
       <div 
         className="modal fade"
